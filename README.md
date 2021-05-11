@@ -1,2 +1,2 @@
 # MultiTransformer
- Transformer and MultiTrasformer layers for stock volatility forecasting purposes
+ Transformer and MultiTransformer layers for stock volatility forecasting purposes
