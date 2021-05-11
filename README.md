@@ -1,2 +1,2 @@
-# MultiTransformer
- Transformer and MultiTransformer layers for stock volatility forecasting purposes
+# Multi-Transformer: A new neural network-based architecture for forecasting S&P volatility
+Transformer layers have already been sucessfully applied for NLP purposes. This repository adapts Transfomer layers in order to be used within hybrid volatility forecasting models. Following the intuition of bagging, this repository also introduces Multi-Transformer layers. The aim of this novel architecture is to improve the stability and accurateness of Transformer layers by averaging multiple attention mechasims.
