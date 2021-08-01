@@ -19,3 +19,5 @@ Model           |  2016  |  2017  |  2018  |  2019  |  2020  | 2016-2020 |
   MTL-GARCH     | 0.0030 | 0.0016 | 0.0033 | 0.0026 | 0.0066 |   0.0038  |
 
 The article also evaluates the appropriateness of the equity risk measures obtained with the previous models. Kupiec and Christoffersen tests demonstrate that only the risk estimations made by MTL-GARCH, TL-GARCH and MT-GARCH can be considered as appropriate for the period 2016–2020.
+
+This repository provides the source code to replicate the results obtained in [*Multi-Transformer: A new neural network-based architecture for forecasting S&P volatility*](https://doi.org/10.3390/math9151794).
